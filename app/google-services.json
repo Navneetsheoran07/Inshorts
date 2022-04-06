@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922510849126",
+    "firebase_url": "https://inshorts-290a0.firebaseio.com",
+    "project_id": "inshorts-290a0",
+    "storage_bucket": "inshorts-290a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922510849126:android:a212076364a73f46e029a7",
+        "android_client_info": {
+          "package_name": "com.programming.fever.inshorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922510849126-cmcr7mgqln1bo4k7cd2sj9eqcck8e19b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Y9HsL1D-GpoG7ZJhKz-IjYkZs6IIzXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922510849126-cmcr7mgqln1bo4k7cd2sj9eqcck8e19b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
