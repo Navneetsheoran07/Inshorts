@@ -8,6 +8,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidApplication/Inshorts/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/AndroidApplication/Inshorts/app/src/main/res/layout/activity_news_detail.xml" value="0.175" />
+        <entry key="..\:/AndroidApplication/Inshorts/app/src/main/res/layout/item_container.xml" value="0.175" />
         <entry key="..\:/Users/Administrator/Downloads/InShorts/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

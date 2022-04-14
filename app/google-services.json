@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "922510849126",
-    "firebase_url": "https://inshorts-290a0.firebaseio.com",
-    "project_id": "inshorts-290a0",
-    "storage_bucket": "inshorts-290a0.appspot.com"
+    "project_number": "105650862352",
+    "project_id": "inshorts-2c41d",
+    "storage_bucket": "inshorts-2c41d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:922510849126:android:a212076364a73f46e029a7",
+        "mobilesdk_app_id": "1:105650862352:android:3832b11a15e3a47e3acd95",
         "android_client_info": {
           "package_name": "com.programming.fever.inshorts"
         }
       },
       "oauth_client": [
         {
-          "client_id": "922510849126-cmcr7mgqln1bo4k7cd2sj9eqcck8e19b.apps.googleusercontent.com",
+          "client_id": "105650862352-n54t1jr6u82o0l6q0f92ti7458rafdio.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD_Y9HsL1D-GpoG7ZJhKz-IjYkZs6IIzXE"
+          "current_key": "AIzaSyALSIpWES474q76q-cGud0qL0dpAL8DaHw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "922510849126-cmcr7mgqln1bo4k7cd2sj9eqcck8e19b.apps.googleusercontent.com",
+              "client_id": "105650862352-n54t1jr6u82o0l6q0f92ti7458rafdio.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
